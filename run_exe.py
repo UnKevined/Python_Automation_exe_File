@@ -28,7 +28,7 @@ pyautogui.click(940, 565)
 #res = pyautogui.locateCenterOnScreen("vlc_weiter.png")
 #print(res)
 
-pyautogui.press("enter", presses = 4, interval= 2.5)
+pyautogui.press("enter", presses = 3, interval= 2.5)
 
 time.sleep(10)  
 
